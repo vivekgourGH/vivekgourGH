@@ -96,9 +96,13 @@ while (isAwake) {
 <details open>
   <summary><h3>🎯 Core Skills</h3></summary>
 
-  ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white) 
+  ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) 
+  ![Java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white)
 
 </details>
+
 
 <details>
   <summary><h3>🌐 Frontend Development</h3></summary>
@@ -134,7 +138,7 @@ while (isAwake) {
 ![](https://capsule-render.vercel.app/api?type=transparent&height=100&text=👩‍💻%20Vivek%20Gour&fontSize=50&fontColor=9370DB&desc=A%20passionate%20developer%20exploring%20the%20digital%20frontier&descSize=20&descAlignY=75&descAlign=60)
 
 <div align="center">
-  <p><i>Thanks for visiting my GitHub profile! Feel free to connect or check out my projects.</i></p>
+  <p><i>Thanks for visiting my GitHub profile! Feel free to connect.</i></p>
   <br>
 </div>
 
