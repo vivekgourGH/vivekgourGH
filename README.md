@@ -33,3 +33,28 @@ while (isAwake) {
     create();
     repeat();
 }
+
+</details>
+
+<!-- Featured Projects Section --> <table> <tr> <td width="50%"> <h3 align="center">Automation of Hydroponic Farming</h3> <div align="center"> <a href="#" target="_blank"> <img src="/path/to/project.png" width="50%" alt="Automation of Hydroponic Farming"/> </a> <br> <br> <p> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/> </a> </p> <p align="left"> • Key feature or achievement<br> • Important functionality<br> • Technical highlight </p> </div> </td> <td width="50%"> <h3 align="center">E-Commerce web app</h3> <div align="center"> <a href="#" target="_blank"> <img src="/path/to/project.png" width="50%" alt="E-Commerce web app"/> </a> <br> <br> <p> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/> </a> </p> <p align="left"> • Key feature or achievement<br> • Important functionality<br> • Technical highlight </p> </div> </td> </tr> </table>
+
+<details open> <summary><h3>🎯 Core Skills</h3></summary>
+
+React JavaScript TypeScript Java
+</details> <details> <summary><h3>🌐 Frontend Development</h3></summary>
+
+HTML5 CSS3 JavaScript React Native
+</details> <details> <summary><h3>🔙 Backend Development</h3></summary>
+
+Node.js MySQL MongoDB
+</details>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vivekgourGH&show_icons=true&theme=graywhite" alt="GitHub Stats" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgourGH&layout=compact&theme=graywhite" alt="Top Languages" height="170"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekgourGH&theme=graywhite" alt="GitHub Streak" height="170"/> </div> <h2 align="center">💡 Random Dev Quote</h2> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/> </div>
+
+<div align="center"> <p><i>Thanks for visiting my GitHub profile! Feel free to connect or check out my projects.</i></p> <br> </div> <div align="center">
+
+Portfolio LinkedIn X(Twitter)
+</div>
+
+footer
+
