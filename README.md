@@ -130,9 +130,7 @@ while (isAwake) {
 
 ![](https://capsule-render.vercel.app/api?type=venom&height=150&text=📊%20LeetCode%20Stats&fontSize=40&color=0:32CD32,100:006400&stroke=006400)
 
-<div align="center">
-  <img src="[https://leetcode-stats-kochi.vercel.app/api?username=vivekxleetcode](https://leetcode-stats.vercel.app/api?username=vivekxleetcode&theme=Light)" alt="LeetCode Stats" height="170"/>
-</div>
+
 
 <div align="center">
   <a href="https://leetcode.com/vivekxleetcode" target="_blank">
@@ -158,6 +156,7 @@ while (isAwake) {
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)]()
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekgour1/)
+  [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode)](https://leetcode.com/vivekxleetcode/)
   [![X(Twitter)](https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/vivekgourtwt/)
 
 </div>
