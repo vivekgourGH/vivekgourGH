@@ -27,14 +27,12 @@ Here are some ideas to get you started:
 <details>
 <summary><h2>🤞 My Promise</h2></summary>
 
-java
 while (isAwake) {
     code();
     learn();
     create();
     repeat();
 }
-
 
 </details>
 
@@ -130,7 +128,19 @@ while (isAwake) {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekgourGH&theme=graywhite" alt="GitHub Streak" height="170"/>
 </div>
 
-<h2 align="center">💡 Random Dev Quote</h2>
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=📊%20LeetCode%20Stats&fontSize=40&color=0:32CD32,100:006400&stroke=006400)
+
+<div align="center">
+  <img src="[https://leetcode-stats-kochi.vercel.app/api?username=vivekxleetcode](https://leetcode-stats.vercel.app/api?username=vivekxleetcode&theme=Light)" alt="LeetCode Stats" height="170"/>
+</div>
+
+<div align="center">
+  <a href="https://leetcode.com/vivekxleetcode" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+</div>
+
+<h2 align="center">💡Quote</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
@@ -139,6 +149,7 @@ while (isAwake) {
 ![](https://capsule-render.vercel.app/api?type=transparent&height=100&text=👩‍💻%20Vivek%20Gour&fontSize=50&fontColor=9370DB&desc=A%20passionate%20developer%20exploring%20the%20digital%20frontier&descSize=20&descAlignY=75&descAlign=60)
 
 <div align="center">
+  
   <p><i>Thanks for visiting my GitHub profile! Feel free to connect.</i></p>
   <br>
 </div>
@@ -148,7 +159,6 @@ while (isAwake) {
   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)]()
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekgour1/)
   [![X(Twitter)](https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/vivekgourtwt/)
-
 
 </div>
 
