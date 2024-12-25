@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Vivek%20Gour%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=A%20passionate%20software%20developer%20exploring%20the%20digital%20frontier&descSize=20&descAlignY=55&descAlign=50)
 
 <div align="center">
-
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=vivekgourGH&color=blue)
   [![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](Resume2512.pdf)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)]()
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekgour1/)
