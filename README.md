@@ -107,14 +107,19 @@ while (isAwake) {
 <details>
   <summary><h3>🌐 Frontend Development</h3></summary>
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-blue?style=for-the-badge&logo=react-native&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
+  ![React Native](https://img.shields.io/badge/-React_Native-blue?style=for-the-badge&logo=react-native&logoColor=white)
 
 </details>
 
 <details>
   <summary><h3>🔙 Backend Development</h3></summary>
 
-  ![Node.js](https://img.shields.io/badge/-Node.js-blue?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-blue?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </details>
 
