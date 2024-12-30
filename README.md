@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
   ![Profile Views](https://komarev.com/ghpvc/?username=vivekgourGH&color=blue)
   [![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](Resume2512.pdf)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)]()
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://portfolio-vivek-gours-projects.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekgour1/)
 
 </div>
