@@ -160,7 +160,7 @@ while (isAwake) {
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)]()
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://portfolio-vivek-gours-projects.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekgour1/)
   [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) ](https://leetcode.com/vivekxleetcode/)
   [![X(Twitter)](https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/vivekgourtwt/)
