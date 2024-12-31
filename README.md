@@ -104,7 +104,7 @@ while (isAwake) {
 </details>
 
 
-<details>
+<details open>
   <summary><h3>🌐 Frontend Development</h3></summary>
 
   ![HTML5](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white)
@@ -114,7 +114,7 @@ while (isAwake) {
 
 </details>
 
-<details>
+<details open>
   <summary><h3>🔙 Backend Development</h3></summary>
 
   ![Node.js](https://img.shields.io/badge/-Node.js-blue?style=for-the-badge&logo=node.js&logoColor=white)
