@@ -82,9 +82,9 @@ while (isAwake) {
 </a>
 </p>
 <p align="left">
-• Key feature or achievement<br>
-• Important functionality<br>
-• Technical highlight
+• Provides a dynamic, interactive visual representation of various sorting algorithms.
+• Supports multiple sorting algorithms: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, etc.
+• Real-time comparison of algorithm efficiency and behavior.
 </p>
 </div>
 </td>
