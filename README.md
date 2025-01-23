@@ -66,10 +66,10 @@ while (isAwake) {
 </div>
 </td>
 <td width="50%">
-<h3 align="center">E-Commerce web app</h3>
+<h3 align="center">Sorting Visualizer</h3>
 <div align="center">  
-<a href="#" target="_blank">
-<img src="/path/to/project.png" width="50%" alt="E-Commerce web app"/>
+<a href="https://vivekgourgh.github.io/Sorting-Visualizer/" target="_blank">
+<img src="/path/to/project.png" width="50%" alt="Sorting Visualizer"/>
 </a>
 <br>
 <br>
@@ -77,7 +77,7 @@ while (isAwake) {
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
 </a>
-<a href="#" target="_blank">
+<a href="https://vivekgourgh.github.io/Sorting-Visualizer/" target="_blank">
 <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
@@ -90,6 +90,7 @@ while (isAwake) {
 </td>
 </tr>
 </table>
+
 
 ![](https://capsule-render.vercel.app/api?type=venom&height=150&text=💻%20Tech%20Stack&fontSize=40&color=0:00FFFF,100:1E90FF&stroke=1E90FF)
 
