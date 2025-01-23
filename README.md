@@ -83,7 +83,9 @@ while (isAwake) {
 </p>
 <p align="left">
 • Provides a dynamic, interactive visual representation of various sorting algorithms.
+  
 • Adjustable speed and array size for customized visualizations.
+
 • Real-time comparison of algorithm efficiency and behavior.
 
 </p>
